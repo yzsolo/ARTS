@@ -1,4 +1,4 @@
-# Week_1 
+# Week_2 
 
 ## Algorithm
 2. reverse integer
