@@ -1,7 +1,7 @@
 # Week_1 
 
 ## Algorithm
-1. reverse integer
+2. reverse integer
 
 ## Review 
 https://onezero.medium.com/meet-the-people-coding-our-world-1d2a482e2e77
